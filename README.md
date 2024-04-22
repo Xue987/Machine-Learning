@@ -18,6 +18,8 @@ This project includes:
 - **flexclip** for video editing: https://www.flexclip.com/
 
 ## How to View
+- song: https://suno.com/song/5c377e9d-ae9b-4d7c-8ac0-798fff859a82
+- music video: https://www.flexclip.com/share/5726611b260175469e3dca8647dcb11771fb4a7.html
 - The music video is available in MP4 format and can be viewed directly from this repository or by downloading it to your local device.
 - You can listen to the song, available in MP3 format, directly on GitHub or download it for offline listening.
 
